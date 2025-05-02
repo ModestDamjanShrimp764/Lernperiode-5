@@ -4,24 +4,28 @@
 
 ## Grob-Planung
 
-Wie können Sie Ihr Projekt aus der Lernperiode 4 um eine Persistenz-Lösung erweitern? Was gibt es zu speichern, was für Tabellen brauchen Sie und wie muss der bestehende Code mit diesen interagieren?
+✍️ Ich möchte mein Snake-Spiel aus Lernperiode 4 um eine Persistenzlösung erweitern. Dafür will ich die Spielstände speichern, also Datum + Score, sobald das Spiel vorbei ist. Zusätzlich
+   plane ich eine Bestenliste anzuzeigen. Dazu brauche ich eine Datenbank mit einer Tabelle für die Spielstände. Der bestehende Code muss bei Game Over die Werte in die Datenbank einfügen, 
+   später soll auch ein SELECT gemacht werden für die Anzeige der besten Ergebnisse.
 
-> ...
+
 
 ## 2.5
 
-- [ ] ...
-- [ ] ...
+- [x] Überlegen was genau man speichern will als Resultat.
+- [x] Datenbank erstellen und dazugehörige Tabelle.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihr bestehendes Projekt und die Neuerungen von heute hochzuladen. Beschreiben Sie eindeutig, was heute an Code dazugekommen ist.
+✍️ Heute habe ich mit SQL begonnen und meine Datenbank für das Snake-Spiel erstellt. Ich habe Tabellen angelegt mit create Database, um später Spielstände zu speichern – z. B. mit Name, 
+  Score und Datum. Vorher habe ich die Datenbank SNAKE erstellt.
+  Außerdem habe ich Amar beim Debuggen geholfen und überlegt, wie ich Bestenlisten und Gegenstände speichere. Den Namen wollte ich speichern lassen und eingeben lassen beim spielen, habe 
+  es aber nicht geschafft anzufangen da ich zeit für Lernperiode 4 falsch eingeplant habe und bei Erstellung von Datenbank und Überlegung. Das mache ich nächstes Mal weiter. Beim Code im 
+  Visual Studio habe ich heute nichts geändert nur überlegt und angeschaut so.
 
 ## 9.5 Kernfunktionalität
 
-- [ ] ... (dieses AP sollte zur Hälfte offline, also ohne Laptop zu bearbeiten sein — beispielsweise ein Datenmodell?)
-- [ ] ...
-- [ ] ...
+- [ ] Datenmodell auf Papier und auf dem Laptop nachmachen von dem Projekt.
+- [ ] Ein Textfeld erscheint, wo der Spieler seinen Namen eingeben kann.
+- [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
