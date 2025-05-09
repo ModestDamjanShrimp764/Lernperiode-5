@@ -23,21 +23,22 @@
 
 ## 9.5 Kernfunktionalität
 
-- [ ] Datenmodell auf Papier und auf dem Laptop nachmachen von dem Projekt.
+- [ ] SQL und C# miteinander erfolgreich verbinden.
 - [ ] Ein Textfeld erscheint, wo der Spieler seinen Namen eingeben kann.
 - [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich sehr wenig gemacht es tut mir leid. Ich habe nur das mit dem Namen gemacht, da es grosse Probleme irgendwie gab die mehrmals auftraten auch. Ich habe nur ein Textfeld hinzugefügt wo der Spieler seinen Namen eingeben 
+    kann. Bei SQL habe ich nur installiert und versucht miteinander zu verbinden aber dafür hatte ich keine Zeit, da es eben Probleme mit dem Code gab mehrmals und oft. Ich versuche es über die Woche zu machen und nächstes mal hoffe ich 
+   das es weniger Probleme gibt.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
+- [ ] SQL und C# verbinden versuchen
+- [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
+- [ ] SQL Befehle machen und Tabellen erstellen und Datenansätze dazu
+- [ ] Nameneingabe funktioniert vollständig
+      
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
