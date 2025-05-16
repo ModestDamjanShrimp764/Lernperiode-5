@@ -23,9 +23,9 @@
 
 ## 9.5 Kernfunktionalität
 
-- [ ] SQL und C# miteinander erfolgreich verbinden.
-- [ ] Ein Textfeld erscheint, wo der Spieler seinen Namen eingeben kann.
-- [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
+- [x] SQL und C# miteinander erfolgreich verbinden.
+- [x] Ein Textfeld erscheint, wo der Spieler seinen Namen eingeben kann.
+- [x] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
 
 ✍️ Heute habe ich sehr wenig gemacht es tut mir leid. Ich habe nur das mit dem Namen gemacht, da es grosse Probleme irgendwie gab die mehrmals auftraten auch. Ich habe nur ein Textfeld hinzugefügt wo der Spieler seinen Namen eingeben 
     kann. Bei SQL habe ich nur installiert und versucht miteinander zu verbinden aber dafür hatte ich keine Zeit, da es eben Probleme mit dem Code gab mehrmals und oft. Ich versuche es über die Woche zu machen und nächstes mal hoffe ich 
@@ -36,17 +36,15 @@
 
 - [ ] SQL und C# verbinden versuchen
 - [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
-- [ ] SQL Befehle machen und Tabellen erstellen und Datenansätze dazu
+- [x] Neues Projekt erstellen anhand eines problems.
 - [ ] Nameneingabe funktioniert vollständig
       
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+✍️ Heute habe ich das jneue Projekt versucht zu erstellen, da es letztes mal Probleme gab und ich es löschen musste aus unklarheiten. Ich habe heute neues erstellt aber leider gab es wider sehr viele Probleme und brauchte sehr lange bis ich es erstellt habe, deswegen konnte ich keine andere Arbeitspakete fertig erledigen es tut mir leid. Ich hoffe auch das es jetzt richtig ist.
 
 ## 23.5 Abschluss
 
-- [ ] ...
-- [ ] ... (falls Ihnen nichts einfällt: Können Sie mit einem PowerShell-Skript von Ihrer Datenbank regelmäßig ein *backup* erstellen?)
+- [ ] Nameneingabe funktioniert und Score wird angezeigt und gespeichert.
+- [ ] SQL und tabellen(verbinden etc.)
 - [ ] Reflexion über Ihre Arbeitsweise
 - [ ] Beschreibung des fertigen Projekts mit .gif etc.
 
