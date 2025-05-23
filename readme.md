@@ -34,28 +34,26 @@
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] SQL und C# verbinden versuchen
-- [ ] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
+- [x] SQL und C# verbinden versuchen
+- [x] Nach dem Game Over wird automatisch der echte Score, das aktuelle Datum und der eingegebene Name gespeichert.
 - [x] Neues Projekt erstellen anhand eines problems.
-- [ ] Nameneingabe funktioniert vollständig
+- [x] Nameneingabe funktioniert vollständig
       
 ✍️ Heute habe ich das jneue Projekt versucht zu erstellen, da es letztes mal Probleme gab und ich es löschen musste aus unklarheiten. Ich habe heute neues erstellt aber leider gab es wider sehr viele Probleme und brauchte sehr lange bis ich es erstellt habe, deswegen konnte ich keine andere Arbeitspakete fertig erledigen es tut mir leid. Ich hoffe auch das es jetzt richtig ist.
 
 ## 23.5 Abschluss
 
-- [ ] Nameneingabe funktioniert und Score wird angezeigt und gespeichert.
-- [ ] SQL und tabellen(verbinden etc.)
-- [ ] Reflexion über Ihre Arbeitsweise
-- [ ] Beschreibung des fertigen Projekts mit .gif etc.
+- [x] Nameneingabe funktioniert und Score wird angezeigt und gespeichert.
+- [x] SQL und tabellen(verbinden etc.)
+- [x] Reflexion über Ihre Arbeitsweise
+- [x] Beschreibung des fertigen Projekts mit .gif etc.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+✍️ Heute habe ich erstmal alleine danach mit der Vorlage versucht das Projekt fertig zu stellen. Das lief aber nicht erfolgreich. Ich hatte wieder viele Probleme auch mit der Vorlage. Ich konnte SQL nicht verbinden Code ging allgemein nicht. Mein Laptop machte auch grosse Probleme und ruckelte übertrieben. Es lief wieder nicht so gut heute..
 
 ## Fertiges Projekt
+Ich konnte mein Projekt nicht fertig machen, da SQL verbinden nicht funktionierte auch bei der Vorlage nicht mein Laptop macht auch grosse Probleme seit paar Wochen er schaltet aus und geht erst nach 6-7 Stunden wieder an wenn überhaupt. Es ruckelt alles ich kann nicht mal richtig den Code kopieren und allgemein Visual starten. Mein Laptop macht grosse Probleme.. Es geht auch keiner von denen Codes mehr. <img width="751" alt="image" src="https://github.com/user-attachments/assets/d408d416-55a4-48e2-a5a4-77d06607c2bc" /> Es tut mir leid.
 
-✍️ Beschreiben Sie hier, wie Ihr Projekt am Ende aussieht, und fügen Sie mindestens ein .gif ein.
 
 ## Reflexion
 
-✍️ Was ging gut, was ging weniger gut? Was haben Sie gelernt, und was würden Sie bei der nächsten Lernperiode versuchen besser zu machen? Fassen Sie auch einen übergeordneten Vorsatz für Ihr nächstes Jahr im Lernatelier (100 bis 200 Wörter).
+Am Anfnag war es gut als ich das Name einfügen im Code hinzugefügt habe aber später gar nicht mehr ich konnte SQL nicht verbinden mein laptop ging ohne grund sehr oft aus und erst nach paar stunden wieder an es ruckelte alles ich habe meine Nerven auch verloren dafür. Es ging nichts mehr. Ich hoffe wir machen nicht wieder sowas. Gelernt habe ich nicht viel, da nichts ging und ich schon letztes mal sehr viele Probleme hatte und jetzt auch mit der Vorlsge sogar ich konnte den Code nicht mal richtig kopieren. Es tut mir leid. Bei diesem Projekt war es katastrophe. Ich würde nächstes Jahr gerne eine Website erstellen wieder oder ein Spiel vielleicht und allgemein Applikation. Das wäre sehr spannend.
